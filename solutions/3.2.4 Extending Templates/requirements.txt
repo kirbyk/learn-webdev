@@ -2,7 +2,7 @@ Flask==0.10.1
 GnuPGInterface==0.3.2
 Jinja2==2.7.2
 MarkupSafe==0.18
-Werkzeug==0.9.4
+Werkzeug==3.0.1
 apt-xapian-index==0.44
 argparse==1.2.1
 chardet==2.0.1
